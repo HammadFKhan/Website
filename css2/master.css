@@ -234,8 +234,10 @@ p, ul {
   width: 100%
 }
 
+
+
 #a {
-  background-image: url("../Images/Main_3.jpg");
+  /*background-image: url("../Images/Main_3.jpg");*/
   background-position: center;
   background-size: cover;
 }
