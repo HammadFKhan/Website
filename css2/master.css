@@ -186,11 +186,17 @@ p, ul {
 }
 
 #section-1 {
-  padding: 1rem 3rem;
+  padding: 5rem 5rem;
   background-color: rgb(22 36 43);
-  height: 800px;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
+  color: #fff;
+}
+#bio{
+  padding-right: 3rem;
+}
+#picofMe{
+  padding-left: 3rem;
 }
 
 .title {
@@ -200,10 +206,6 @@ p, ul {
   font-weight: 250;
   padding-top: 1rem;
   padding-bottom: 1rem;
-}
-
-#section-1 p {
-  color: white;
 }
 
 .square {
